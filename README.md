@@ -2,7 +2,7 @@
 
 
 ## Projetos
-
+1. Tradutor de Artigos Técnicos com AzureAI
 
 
 ## Referências
