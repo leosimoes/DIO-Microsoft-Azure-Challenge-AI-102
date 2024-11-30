@@ -3,6 +3,7 @@
 
 ## Projetos
 1. Tradutor de Artigos Técnicos com AzureAI
+2. Análise de Documentos Anti-fraude com AzureAI
 
 
 ## Referências
